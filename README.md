@@ -22,3 +22,45 @@ Aplicar la Ley de Kirchhoff de Corrientes para comprobar las cargas que pasan po
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 1.3 MARCO TEÓRICO
+
+
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/116819100/201952289-b51526b1-26a9-4eb8-9e42-2bab4d0660cb.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.4 EXPLICACIÓN DE PROCEDIMIENTO
+
