@@ -49,18 +49,19 @@ Aplicar la Ley de Kirchhoff de Corrientes para comprobar las cargas que pasan po
 
 
 
+Segunda Tabla: Verificacion de las trayectorias por medio de la Ley de Kirchhoff de Voltajes.
 
 
+![image](https://user-images.githubusercontent.com/116819100/201954587-14b7af68-31b5-49e7-8077-3ab5474a4f8b.png)
 
 
+""Calculo Explicativo""
 
+![image](https://user-images.githubusercontent.com/116819100/201954512-b568678a-1d45-4f3c-8ae2-9560d4e4334f.png)
 
+Tercera tabla; Verificación por medio de la Ley de Kirchhoff de Corrientes.
 
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/116819100/201954423-d7b80977-ee4e-401f-b29c-d5ad136dac14.png)
 
 
 
